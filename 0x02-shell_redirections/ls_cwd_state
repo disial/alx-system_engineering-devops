@@ -1,0 +1,16 @@
+total 56
+drwxrwxrwx+ 2 codespace codespace 4096 Oct  8 17:06 .
+drwxrwxrwx+ 6 codespace root      4096 Oct  8 17:01 ..
+-rwxrwxrwx  1 codespace codespace   32 Oct  3 17:41 0-hello_world
+-rwxrwxrwx  1 codespace codespace   27 Oct  3 17:43 1-confused_smiley
+-rwxrwxrwx  1 codespace codespace   28 Oct  3 17:45 2-hellofile
+-rwxrwxrwx  1 codespace codespace   39 Oct  3 17:50 3-twofiles
+-rwxrwxrwx  1 codespace codespace   35 Oct  3 18:18 4-lastlines
+-rwxrwxrwx  1 codespace codespace   35 Oct  3 18:19 5-firstlines
+-rwxrwxrwx  1 codespace codespace   46 Oct  3 18:26 6-third_line
+-rwxrwxrwx  1 codespace codespace   98 Oct  8 16:47 7-file
+-rwxrwxrwx  1 codespace codespace   34 Oct  8 16:58 8-cwd_state
+-rw-rw-rw-  1 codespace codespace   25 Oct  3 17:39 README.md
+-rw-rw-rw-  1 codespace codespace   12 Oct  3 19:00 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-rw-  1 codespace codespace   12 Oct  3 19:01 \*\\\"Best School\"\\\\*$\?\*\*\*\*\*:)
+-rw-rw-rw-  1 codespace codespace    0 Oct  8 17:06 ls_cwd_state
